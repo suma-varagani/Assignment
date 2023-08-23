@@ -1,0 +1,9 @@
+.movies-list-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.movie-item {
+  margin: 30px;
+  list-style-type: none;
+}
